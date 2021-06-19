@@ -20,3 +20,5 @@ Documentar
 Código:
 
 src --> pages/Home --> index.js
+
+*OBS: Editar local de arquivo do import MyData
