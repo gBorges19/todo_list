@@ -19,4 +19,4 @@ Documentar
 
 Código:
 
-Src --> Page/Home --> index.js
+src --> pages/Home --> index.js
